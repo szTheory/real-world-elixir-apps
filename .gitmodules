@@ -2,3 +2,15 @@
 	path = apps/rebalancer
 	url = git@github.com:steffenix/rebalancer.git
 	branch = master
+[submodule "apps/redex"]
+	path = apps/redex
+	url = git@github.com:coosto/redex.git
+	branch = master
+[submodule "apps/apxr"]
+	path = apps/apxr
+	url = git@github.com:Rober-t/apxr.git
+	branch = master
+[submodule "apps/mandelixir"]
+	path = apps/mandelixir
+	url = https://github.com/ericentin/mandelixir
+	branch = master
