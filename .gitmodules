@@ -1,0 +1,4 @@
+[submodule "apps/rebalancer"]
+	path = apps/rebalancer
+	url = git@github.com:steffenix/rebalancer.git
+	branch = master
