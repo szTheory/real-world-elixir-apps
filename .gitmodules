@@ -14,3 +14,11 @@
 	path = apps/mandelixir
 	url = https://github.com/ericentin/mandelixir
 	branch = master
+[submodule "apps/coincoin"]
+	path = apps/coincoin
+	url = git@github.com:robinmonjo/coincoin.git
+	branch = master
+[submodule "apps/ex-mustang-slack-bot"]
+	path = apps/ex-mustang-slack-bot
+	url = git@github.com:techgaun/ex_mustang.git
+	branch = master
