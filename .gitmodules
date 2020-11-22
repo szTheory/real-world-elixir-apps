@@ -22,3 +22,7 @@
 	path = apps/ex-mustang-slack-bot
 	url = git@github.com:techgaun/ex_mustang.git
 	branch = master
+[submodule "apps/poxa-pusher-server"]
+	path = apps/poxa-pusher-server
+	url = git@github.com:edgurgel/poxa.git
+	branch = master
