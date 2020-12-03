@@ -26,3 +26,7 @@
 	path = apps/poxa-pusher-server
 	url = git@github.com:edgurgel/poxa.git
 	branch = master
+[submodule "apps/skirnir-email-server"]
+	path = apps/skirnir-email-server
+	url = https://github.com/altenwald/skirnir
+	branch = master
