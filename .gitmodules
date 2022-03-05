@@ -26,3 +26,8 @@
 	path = apps/skirnir-email-server
 	url = https://github.com/altenwald/skirnir
 	branch = master
+[submodule "apps/nerves-hub-web"]
+	path = apps/nerves-hub-web
+	url = https://github.com/nerves-hub/nerves_hub_web.git
+	branch = master
+
