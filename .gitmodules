@@ -1,7 +1,3 @@
-[submodule "apps/rebalancer"]
-	path = apps/rebalancer
-	url = git@github.com:steffenix/rebalancer.git
-	branch = master
 [submodule "apps/redex"]
 	path = apps/redex
 	url = git@github.com:coosto/redex.git
